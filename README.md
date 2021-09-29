@@ -1,4 +1,4 @@
-# jira_as_a_code
+# Jira as a Code YAML (PACA)
 PACA - Project as Code Assistant
 
 tired of wasting time with jira.. making epics, tasks, links, this and that... transition to backlog, to do, whatever...
