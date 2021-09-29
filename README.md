@@ -107,6 +107,9 @@ Define templates that can be reused as descriptions of the tasks. They either be
 * epics
 Declare EPICs and inside their tasks, they will automatically get linked.
 
+* quarters
+You can create many, and you can move Epics from one to another.. PACA will take care of the changes.
+
 Since its declarative and overall produces a model, you can simply interpolate up-down some of the values within the epic->tasks and save time.
 
 ## TODO
